@@ -1,6 +1,2 @@
-# digital_vendor
-# vendor
-# vendor
-# vendor
-# secondApi
-# ourMainAPI
+# Our main API 
+It revices all the request also it validate our order payment.
